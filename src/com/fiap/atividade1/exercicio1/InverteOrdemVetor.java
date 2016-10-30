@@ -1,4 +1,4 @@
-package com.fiap.exercicio1;
+package com.fiap.atividade1.exercicio1;
 
 public class InverteOrdemVetor {
 	

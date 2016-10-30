@@ -1,4 +1,4 @@
-package com.fiap.exercicio2;
+package com.fiap.atividade1.exercicio2;
 
 public class ValorVariavies {
 	public static void main(String[] args) {

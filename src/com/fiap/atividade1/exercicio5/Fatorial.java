@@ -1,4 +1,4 @@
-package com.fiap.exercicio5;
+package com.fiap.atividade1.exercicio5;
 
 import javax.swing.JOptionPane;
 

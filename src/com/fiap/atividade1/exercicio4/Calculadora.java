@@ -1,4 +1,4 @@
-package com.fiap.exercicio4;
+package com.fiap.atividade1.exercicio4;
 
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
